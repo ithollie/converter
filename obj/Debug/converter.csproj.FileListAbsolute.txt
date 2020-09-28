@@ -1,0 +1,10 @@
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\bin\Debug\converter.exe.config
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\bin\Debug\converter.exe
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\bin\Debug\converter.pdb
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.csprojAssemblyReference.cache
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.Form1.resources
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.Properties.Resources.resources
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.csproj.GenerateResource.cache
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.csproj.CoreCompileInputs.cache
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.exe
+C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.pdb
