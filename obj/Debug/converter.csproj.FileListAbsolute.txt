@@ -8,3 +8,12 @@ C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converte
 C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.csproj.CoreCompileInputs.cache
 C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.exe
 C:\Users\ithol\OneDrive\Desktop\Applications_course\converter\obj\Debug\converter.pdb
+C:\software_Engineer\converter\bin\Debug\converter.exe.config
+C:\software_Engineer\converter\bin\Debug\converter.exe
+C:\software_Engineer\converter\bin\Debug\converter.pdb
+C:\software_Engineer\converter\obj\Debug\converter.Form1.resources
+C:\software_Engineer\converter\obj\Debug\converter.Properties.Resources.resources
+C:\software_Engineer\converter\obj\Debug\converter.csproj.GenerateResource.cache
+C:\software_Engineer\converter\obj\Debug\converter.csproj.CoreCompileInputs.cache
+C:\software_Engineer\converter\obj\Debug\converter.exe
+C:\software_Engineer\converter\obj\Debug\converter.pdb
